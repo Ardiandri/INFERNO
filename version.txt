@@ -1,6 +1,1 @@
-INFERNO V5.0
-
-meel
-meheke
-hejel
-heje
+6.0 INFERNO
