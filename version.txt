@@ -1,5 +1,1 @@
-INFERNO V6.1
-vsksl
-vsks
-bsjs
-hejs
+V7.0 INFERNO
